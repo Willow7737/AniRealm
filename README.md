@@ -1,3 +1,4 @@
+![Uploading Screenshot_20231107-060756.png…]()
 # AniRealm
 *AniRealm* is the ultimate digital domain for manga, manhwa, manhua, and anime enthusiasts!  Embark on a thrilling journey through the boundless universe of illustrated stories and animated adventures. AniRealm is your portal to a mesmerizing multiverse where you can explore, discover, and share your passion for all things manga and anime. Dive into an ever-expanding library of content, featuring the latest releases, timeless classics, and hidden gems from the worlds of manga, manhwa, manhua, and anime. Unleash your curiosity with our fiendishly clever recommendation algorithm, designed to unearth the perfect tales to tantalize your taste buds and ignite your imagination. Engage with fellow aficionados in our vibrant community, where you can discuss your favorite series, debate plot twists, and forge friendships with like-minded souls. Stay connected with the latest news, updates, and events from the realm of illustrated and animated storytelling. AniRealm is your one-stop destination for all your manga and anime cravings. Join us now and unlock the door to a realm of infinite possibilities!
 
@@ -98,3 +99,8 @@ The project follows a clean and organized structure:
 - **Security Configuration:** Spring Security is employed to secure the application with authentication and authorization.
 - **Database Configuration:** The `application.properties` file configures the database connection and Spring Data JPA properties.
 - **Controller Classes:** These classes define and document the RESTful API endpoints.
+
+## Screenshots
+![Screenshot_20231107-060410](https://github.com/Willow7737/AniRealm/assets/114362590/611ed709-adce-4b2e-8e8b-77e2b3dde24f)
+![Screenshot_20231107-055838](https://github.com/Willow7737/AniRealm/assets/114362590/342c58e6-8e71-48b9-83a0-de59f7a7544f)
+
