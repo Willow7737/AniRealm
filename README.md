@@ -13,8 +13,14 @@
 
 
 ## Screenshots
+- **Profile page**
+- 
 ![IMG-20231204-WA0013](https://github.com/Willow7737/AniRealm/assets/114362590/a5bf5ef2-3896-488b-9cfa-e677c927a5dc)
+- **Home page** XML
+- 
 ![IMG-20231204-WA0024](https://github.com/Willow7737/AniRealm/assets/114362590/288a4913-cfcd-4433-ad77-decb139b4458)
+- **Notification**
+
 ![IMG-20231204-WA0006](https://github.com/Willow7737/AniRealm/assets/114362590/3995bb21-8a79-4ad1-b5ba-67e43d5abc3f)
 ![IMG-20231204-WA0005](https://github.com/Willow7737/AniRealm/assets/114362590/281617c7-2964-4d37-8129-ca32e7d34ec7)
 ![IMG-20231204-WA0021](https://github.com/Willow7737/AniRealm/assets/114362590/4ab7cb22-686a-4354-8a5b-e38c1fd611d4)
